@@ -1,0 +1,35 @@
+[
+  
+    {
+        "ID":"1",
+        "name":"samsung A31",
+        "OSMobile":"Android 10",
+        "ramMobile":" 8 GB",
+        "romMobile":"128 GB",
+        "BatteryMobile":"5,000mAh",
+        "SaleMobile":"7,570",
+        "imgMobile":"img/Samsung-Galaxy-A31-A315G-DS-Dual-SIM-Global-Version-6-4-4GB-RAM-64GB-ROM-Octa.jpg"
+    },
+    {
+        "ID":"2",
+        "name":"Iphone 14 Pro-max",
+        "OSMobile":"IOS 16",
+        "ramMobile":" M.2",
+        "romMobile":"128 GB",
+        "BatteryMobile":"ไม่สามารถระบุได้",
+        "SaleMobile":"44,900",
+        "imgMobile":"img/iPhone-14-ProPurple.jpg"  
+    },
+    {
+        "ID":"3",
+        "name":"Asus ROG Phone 6 Pro",
+        "OSMobile":"Android 12",
+        "ramMobile":"512GB",
+        "romMobile":"128GB",
+        "BatteryMobile":"6,000 mAh",
+        "SaleMobile":"39,990",
+        "imgMobile":"img/Asus-ROG-Phone-6-Pro.webp"  
+    }
+
+    
+]
